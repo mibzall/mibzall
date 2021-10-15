@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mibzall
 - 👀 I’m interested in gaming and coding.
-- 🌱 I’m currently learning Python, HTML5 and CSS.
-- 💞️ I’m looking to collaborate on nothing right now, as I'm still learning.
+- 🌱 I’m currently learning Python, HTML5, CSS and JavaScript.
 - 📫 How to reach me: Discord (SWEGLEG#7098).
 
 
